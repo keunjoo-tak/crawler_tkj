@@ -1,5 +1,5 @@
-# 급하게 코딩용 노트북을 사야함
-# 어떤 노트북이 좋은지, 리뷰, 평점 고려
+# 급하게 타이어을 사야함
+# 어떤 타이어가 좋은지, 리뷰, 평점 고려
 
 from socketserver import BaseRequestHandler
 import requests
